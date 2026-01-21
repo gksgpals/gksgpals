@@ -1,6 +1,6 @@
 <!-- GitHub Profile README (Clean & Minimal) -->
 
-<h1>👋 I'm Hyemin</h1>
+<h1 align="center">👋 I'm Hyemin</h1>
 
 <p align="center">
   <a href="https://github.com/gksgpals">
@@ -46,9 +46,9 @@
 ## 🏆 Awards & 📌 Certifications
 - 🥇 **EBTI Hackathon** — Grand Prize (AI agent)
 - 🥉 **COKOTHON** — Consolation Prize (Browser extension)
-- ✅ **SQLD (2025)**
-- ✅ **Azure AI Fundamentals (2025)**
-- ✅ **PCCP (2025)** · **PCCE (2025)**
+- 🪪 **SQLD (2025)**
+- 🪪 **Azure AI Fundamentals (2025)**
+- 🪪 **PCCP (2025)** · **PCCE (2025)**
 
 ---
 
