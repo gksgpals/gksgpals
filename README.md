@@ -54,7 +54,7 @@
 
 ## 📄 Paper
 - **Undergraduate-level research paper**  
-  “Vulnerability Analysis and Countermeasures for the SK USIM Telecom Hacking Incident”,2025.
+  “Vulnerability Analysis and Countermeasures for the SK USIM Telecom Hacking Incident” ,2025.
 
 ---
 
