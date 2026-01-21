@@ -3,8 +3,8 @@
 <h1 align="center">👋 I'm Hyemin</h1>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_ID">
-    <img src="https://img.shields.io/badge/GitHub-111?style=flat&logo=github&logoColor=fff"/>
+  <a href="https://github.com/gksgpals">
+    <img src="https://github.com/gksgpals"/>
   </a>
   <img src="https://img.shields.io/badge/C%2B%2B-111?style=flat&logo=c%2B%2B&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Java-111?style=flat&logo=openjdk&logoColor=fff"/>
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:hhm282828@gmail.com">
     <img src="https://img.shields.io/badge/Email-111?style=flat&logo=gmail&logoColor=fff"/>
   </a>
   <a href="YOUR_LINK">
