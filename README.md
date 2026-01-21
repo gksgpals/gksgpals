@@ -1,6 +1,6 @@
 <!-- GitHub Profile README (Clean & Minimal) -->
 
-<h1 align="center">👋 I'm Hyemin</h1>
+<h1>👋 I'm Hyemin</h1>
 
 <p align="center">
   <a href="https://github.com/gksgpals">
