@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/gksgpals">
-    <img src="https://github.com/gksgpals"/>
+    <img src="https://img.shields.io/badge/GitHub-111?style=flat&logo=github&logoColor=fff"/>
   </a>
   <img src="https://img.shields.io/badge/C%2B%2B-111?style=flat&logo=c%2B%2B&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Java-111?style=flat&logo=openjdk&logoColor=fff"/>
