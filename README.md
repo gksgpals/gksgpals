@@ -1,10 +1,6 @@
 <!-- GitHub Profile README (Clean & Minimal) -->
 
-<h1 align="center">👋 국민대학교 소프트웨어학부 23학번</h1>
-<p align="center">
-  Full-stack · Database · Applied AI (EdTech) <br/>
-  꾸준히 만드는 개발자, 운영까지 생각하는 설계
-</p>
+<h1 align="center">👋 I'm Hyemin</h1>
 
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_ID">
