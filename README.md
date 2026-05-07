@@ -1,6 +1,6 @@
 <!-- GitHub Profile README (Clean & Minimal, updated from attached materials) -->
 
-<h1 align="center">Han Hyemin 😼</h1>
+<h1 align="center">Han Hyemin</h1>
 
 <p align="center">
   <b>Software Engineering Student · AI Product Builder · Security Learner</b>
@@ -34,7 +34,7 @@
 
 ---
 
-## 🧭 About Me
+## About Me
 - 국민대학교 소프트웨어학부 재학
 - 반복 업무를 AI와 자동화로 줄이고, 사용자가 바로 체감할 수 있는 서비스 흐름을 설계하는 데 관심이 있습니다.
 - Frontend, Backend, PM을 오가며 사용자 플로우, API 연동, 데이터 구조, 예외 처리까지 함께 고민합니다.
@@ -42,17 +42,17 @@
 
 ---
 
-## 🏫 Activities
-- 👩🏻‍💻 **WINK** — Web academic club  
+## Activities
+- **WINK** — Web academic club  
   React, Spring Boot, algorithm study에 참여하고 GitHub 과제와 기술 블로그로 학습 내용을 정리했습니다.
-- 🤖 **KOBOT** — Robotics academic club / Academic Team Lead  
+- **KOBOT** — Robotics academic club / Academic Team Lead  
   로봇·임베디드·자율주행 스터디 커리큘럼을 정리하고, 팀원들의 기술 학습과 프로젝트 진행을 리드했습니다.
-- 🌱 **Korea Student Aid Foundation Talent Volunteer Camp**  
+- **Korea Student Aid Foundation Talent Volunteer Camp**  
   Scratch, Python, 알고리즘, 회로 실습 기반 창의융합 교육 프로그램 운영에 참여했습니다.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### English Learning Material Automation Tool
 - 영어 내신 자료 제작 과정을 **Streamlit + OpenAI API**로 자동화한 업무 개선 프로젝트
@@ -86,7 +86,7 @@
 
 ---
 
-## 🔐 Research
+## Research
 
 ### UROP: SK Telecom USIM/HSS Hacking Incident Case Study
 - 국민대학교 정보보호연구실 UROP 연구
@@ -97,13 +97,13 @@
 
 ---
 
-## 🏆 Awards
-- 🥇 **EBTI Hackathon** — Grand Prize, AI collaboration report service
-- 🥉 **COKOTHON** — Consolation Prize, web accessibility browser extension
+## Awards
+- **EBTI Hackathon** — Grand Prize, AI collaboration report service
+- **COKOTHON** — Consolation Prize, web accessibility browser extension
 
 ---
 
-## 📌 Certifications
+## Certifications
 - **AWS Certified Cloud Practitioner** (2026.04)
 - **Microsoft Certified: Azure AI Engineer Associate** (2025.11)
 - **SQLD / SQL Developer** (2025.06)
@@ -112,8 +112,12 @@
 
 ---
 
-## 📊 Stats
+## Links
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gksgpals&show_icons=true&hide_title=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gksgpals&layout=compact&hide_title=true" height="160" />
+  <a href="https://github.com/gksgpals?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-111?style=flat&logo=github&logoColor=fff"/>
+  </a>
+  <a href="https://github.com/gksgpals?tab=stars">
+    <img src="https://img.shields.io/badge/Starred-111?style=flat&logo=github&logoColor=fff"/>
+  </a>
 </p>
