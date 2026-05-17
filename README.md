@@ -252,14 +252,15 @@
 
 </div>
 
----
 
+---
 
 ## 🔗 Links
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gksgpals)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hhm282828@gmail.com)
 
 </div>
 
