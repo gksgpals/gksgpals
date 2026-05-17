@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Han Hyemin
+#  Han Hyemin
 
 ### _Software Engineering Student · AI Product Builder · Security Learner_
 
