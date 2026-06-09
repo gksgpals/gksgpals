@@ -164,51 +164,6 @@
 
 ## 🔬 Research
 
-### 🧬 Computational Bioinformatics Lab @ 국민대학교 &nbsp;`2026.05 ~`
-
-[![Lab Homepage](https://img.shields.io/badge/🔗_Lab_Homepage-Visit-4B0082?style=for-the-badge)](https://progistar.github.io/)
-
-> **지도교수**: 최승혁 (Seunghyuk Choi) 교수님
-
-국민대학교 소프트웨어융합대학 **Computational Bioinformatics Lab**에서 학부연구생으로 활동 중입니다.
-정밀 종양학(_Precision Oncology_)을 위한 **계산 단백유전체학(_Computational Proteogenomics_)** 분야를 연구합니다.
-
-<table>
-<tr>
-<td width="50" align="center">🧪</td>
-<td>
-<b>Proteogenomic Integration for Tumor Antigen Discovery</b><br>
-<sub>WGS · RNA-seq · Mass Spectrometry 기반 proteomics를 통합하여 종양 특이적 신생항원(neoantigen) 후보를 발굴</sub>
-</td>
-</tr>
-<tr>
-<td width="50" align="center">🧬</td>
-<td>
-<b>Personalized Protein Databases</b><br>
-<sub>환자별 genome(VCF) · transcriptome(GTF) 데이터로부터 맞춤형 단백질 서열 데이터베이스 구축</sub>
-</td>
-</tr>
-<tr>
-<td width="50" align="center">🤖</td>
-<td>
-<b>Computational Methods & Machine Learning</b><br>
-<sub>Peptide-spectrum matching, FDR control, 딥러닝 기반 펩타이드 식별 및 면역원성 예측</sub>
-</td>
-</tr>
-<tr>
-<td width="50" align="center">💊</td>
-<td>
-<b>Translational Proteogenomics</b><br>
-<sub>분자 시그니처와 임상 표현형을 연결하여 면역치료 · 백신 개발에 활용 가능한 바이오마커 발굴</sub>
-</td>
-</tr>
-</table>
-
-**Tools & Techniques**
-`Bioinformatics Pipelines` `Mass Spectrometry Analysis` `NGS Data Processing` `Deep Learning` `Multi-omics Integration`
-
-<br>
-
 ### 🔐 UROP: SK Telecom USIM/HSS Hacking Incident Case Study
 
 [![Lab Homepage](https://img.shields.io/badge/🔗_InfoSec_Lab-Visit-0F4C81?style=for-the-badge)](https://infosec.kookmin.ac.kr/)
