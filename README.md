@@ -6,7 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=gksgpals&color=blueviolet&style=flat-square)](https://github.com/gksgpals)
 [![GitHub followers](https://img.shields.io/github/followers/gksgpals?style=flat-square&color=blue)](https://github.com/gksgpals)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://six-damselfly-5ac.notion.site/Portfolio-3829ea6b59b08025ab16c9b160676abd?source=copy_link)
+
 
 </div>
 
