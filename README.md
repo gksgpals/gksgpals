@@ -154,8 +154,7 @@
 - 카메라 입력 기반 신호 상태 판단과 차량 제어 명령 전달 흐름을 구성했습니다.
 - SLAM 기반 자율주차 개발계획서에서는 `Sensor`, `SLAM`, `Localization`, `Parking Space Detection`, `Path Planning`, `Vehicle Control` 노드를 분리해 시스템 아키텍처를 설계했습니다.
 - **Role**: ROS2-based autonomous driving SW & SLAM-based autonomous parking planning
-- **Contribution**: Team / 45%
-- **Period**: `2026.04 ~ 2026.06`
+- **Period**: `2026.04 ~ `
 
 <br>
 
@@ -165,8 +164,7 @@
 - 자연어 입력 또는 VLM이 해석한 장면 정보를 이동, 정지, 탐색, 특정 위치 접근 등 로봇 제어 모듈이 활용할 수 있는 고수준 명령 형태로 변환하는 흐름을 정리했습니다.
 - LLM/VLM이 직접 모터 제어값을 생성하지 않고, 하위 주행 제어 모듈이 처리할 수 있는 추상화된 명령을 전달하도록 역할을 분리했습니다.
 - **Role**: LLM/VLM-based command interpretation module
-- **Contribution**: Team / 25%
-- **Period**: `2026.03 ~ 2026.06`
+- **Period**: `2026.03 ~ `
 
 ---
 
