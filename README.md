@@ -104,7 +104,7 @@
 [![Capstone Repo](https://img.shields.io/badge/GitHub-2026--capstone--51-181717?style=for-the-badge&logo=github)](https://github.com/kookmin-sw/2026-capstone-51)
 [![Team Page](https://img.shields.io/badge/Team_Page-Visit-blue?style=for-the-badge&logo=github)](https://kookmin-sw.github.io/2026-capstone-51/)
 
-- 국민대학교 2026 캡스톤디자인 51팀 프로젝트로 진행했으며, **2026년 6월 완료**했습니다.
+- 국민대학교 2026 캡스톤디자인 51팀 프로젝트로 진행했습니다.
 - React 기반 주요 화면과 사용자 경험 기록 및 조회 흐름을 구현했습니다.
 - 문항 기반 경험 추천 결과를 사용자가 이해할 수 있는 UI로 구성했습니다.
 - AI 초안 생성 흐름이 자연스럽게 이어지도록 프론트엔드를 구현했습니다.
