@@ -247,7 +247,6 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://six-damselfly-5ac.notion.site/Portfolio-3829ea6b59b08025ab16c9b160676abd?source=copy_link)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gksgpals)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hhm282828@gmail.com)
 
