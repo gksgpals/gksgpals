@@ -216,6 +216,30 @@
 
 </details>
 
+<br>
+
+### 📊 UROP: Efficient Data Mining & Machine Learning Research
+
+[![Lab Homepage](https://img.shields.io/badge/Data_Mining_Lab-Visit-2E7D32?style=for-the-badge)](https://dm.kookmin.ac.kr/)
+[![Advisor](https://img.shields.io/badge/Advisor-Prof._Ha--Myung_Park-555555?style=for-the-badge)](https://hmpark.me/)
+
+> 국민대학교 데이터마이닝 연구실 학부연구생
+> **Period**: `2026.06 ~ Present`
+
+**Topic**: Efficient data mining, AI model compression, vector database, and large-scale data analysis research
+
+<details>
+<summary><b>Research Summary</b></summary>
+
+- 데이터마이닝 연구실의 주요 연구분야인 Efficient Machine Learning과 Large-scale Data Mining을 중심으로 관련 기초 이론을 학습하고 있습니다.
+- 고차원 데이터를 효율적으로 표현하고 탐색하기 위한 Representation Learning, 데이터 구조화, kNN 기반 근접 탐색 기법을 학습하고 있습니다.
+- AI 모델 및 데이터 압축 기술을 통해 제한된 연산 자원에서도 효율적으로 동작하는 머신러닝 방법론을 탐구하고 있습니다.
+- 대규모 데이터 처리를 위한 분산/병렬 시스템 기반 데이터마이닝 알고리즘과 성능 최적화 관점을 학습하고 있습니다.
+- 벡터 데이터베이스와 고차원 벡터 검색 기술의 개념을 익히며, 대용량 데이터에서 빠르고 정확한 정보 검색을 수행하는 방법을 연구하고 있습니다.
+- 연구실 세미나 및 논문 리뷰를 통해 데이터마이닝, 기계학습, 정보검색 분야의 최신 연구 동향을 정리하고 있습니다.
+
+</details>
+
 ---
 
 ## 🏆 Awards
