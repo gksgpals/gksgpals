@@ -218,7 +218,7 @@
 
 <br>
 
-### 📊 UROP: Efficient Data Mining & Machine Learning Research
+### 📊 Efficient Data Mining & Machine Learning Research
 
 [![Lab Homepage](https://img.shields.io/badge/Data_Mining_Lab-Visit-2E7D32?style=for-the-badge)](https://dm.kookmin.ac.kr/)
 [![Advisor](https://img.shields.io/badge/Advisor-Prof._Ha--Myung_Park-555555?style=for-the-badge)](https://hmpark.me/)
