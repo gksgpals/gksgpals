@@ -314,7 +314,7 @@
 
 | Certification | Date |
 |:---|:---:|
-| ![정보처리기사](https://img.shields.io/badge/정보처리기사-Engineer_Information_Processing-1F6FEB?style=flat-square) | `2026` |
+| ![정보처리기사](https://img.shields.io/badge/정보처리기사-Engineer_Information_Processing-1F6FEB?style=flat-square) | `2026.09` |
 | ![AWS](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) | `2026.04` |
 | ![Azure](https://img.shields.io/badge/Microsoft-Azure_AI_Fundamentals_(AI--900)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | `2025.11` |
 | ![PCCP](https://img.shields.io/badge/PCCP-Programmers-5A29E4?style=flat-square) | `2025.11` |
