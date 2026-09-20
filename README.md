@@ -320,7 +320,6 @@
 | ![PCCP](https://img.shields.io/badge/PCCP-Programmers-5A29E4?style=flat-square) | `2025.11` |
 | ![SQLD](https://img.shields.io/badge/SQLD-SQL_Developer-003B57?style=flat-square&logo=postgresql&logoColor=white) | `2025.06` |
 | ![PCCE](https://img.shields.io/badge/PCCE-Programmers-5A29E4?style=flat-square) | `2025.05` |
-| ![OPIc](https://img.shields.io/badge/OPIc-IM1-6C3483?style=flat-square) | `—` |
 
 </div>
 
