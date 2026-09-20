@@ -33,7 +33,7 @@
 
 | Period | Institution | Details |
 |:---:|:---|:---|
-| `2023.03 ~ 2027.02 expected` | **Kookmin University** | School of Software · **AI Department (Minor)**<br>국어국문학과로 입학 후 소프트웨어학부로 전과 |
+| `2023.03 ~ 2027.02 expected` | **Kookmin University** | School of Software · **AI Department (Minor)** |
 | `2018.03 ~ 2021.02` | **Hanam High School** | Hanam, Gyeonggi-do |
 
 **Academic Record**
