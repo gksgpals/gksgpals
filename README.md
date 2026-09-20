@@ -36,13 +36,6 @@
 | `2023.03 ~ 2027.02 expected` | **Kookmin University** | School of Software · **AI Department (Minor)** |
 | `2018.03 ~ 2021.02` | **Hanam High School** | Hanam, Gyeonggi-do |
 
-**Academic Record**
-
-| 항목 | 내용 |
-|:---|:---|
-| 장학 | **SW 우수학생 장학금 2회 선발** (최근 2026-1학기) |
-| 근로장학 | 교과목 헬퍼(조교) — 수치해석 · AI 프로그래밍 |
-
 ---
 
 ## 🛠️ Tech Stack
@@ -129,7 +122,7 @@
 - 학원 관계자만 쓸 수 있도록 Google OIDC 로그인 + 이메일/도메인 기반 접근 제어를 붙이고 Render에 배포했습니다.
 - **Role**: Planning · Automation Pipeline · PPTX/XML · QA · Workflow Improvement (단독)
 - **Tech**: `Python` `Streamlit` `OpenAI API` `PPTX/XML` `Google OIDC` `Render` `pytest`
-- **Result**: **실제 영어학원 조교·원장이 실무에 사용**
+- **Result**: **실제 영어학원 실무에 사용**
 
 <br>
 
@@ -204,8 +197,8 @@
 
 ### FIRO — Natural Language Mission Interface for Disaster-Site Scout Robot
 
-> 2026 하계방학 학부생 연구 인턴십 **성과창출 트랙** (지도교수 박하명) · 단독 연구
-> `2026.07.13 ~ 2026.08.28` (7주 · 162시간 · 출석률 100%)
+> 2026 하계방학 학부생 연구 인턴십 **성과창출 트랙** 단독 연구
+> `2026.07.13 ~ 2026.08.28`
 
 - Ghost Robotics Vision 60 기반 재난현장 선행정찰 로봇을 위한 자연어 임무 인터페이스와 자율임무 관리 시스템을 설계했습니다.
 - 사용자 자연어를 수색 경계 · 금지구역 · 탐색 대상 · 복귀 조건으로 구성된 **제한된 Mission Schema**로 변환하도록 설계했습니다.
@@ -235,48 +228,19 @@
 
 > **Period**: `2026.06 ~ Present` · **Topic**: Efficient ML — LLM low-bit quantization, vector search, large-scale data analysis
 
-<details open>
-<summary><b>▸ 2026 Summer UROP — Scalability Analysis of 2-bit LLM Quantization (EPTQ)</b></summary>
+### ▸ Activation Quantization for LLMs (NVFP4 W4A4)
+
+- 2-bit weight-only 양자화가 activation 양자화와의 결합에서 검증되지 않았다는 점을 출발점으로, **가중치와 activation을 모두 NVFP4 4-bit로 양자화해 Blackwell NVFP4 텐서코어에서 W4A4로 실행하는 구조**를 연구하고 있습니다.
+- LLaMA 계열 모델을 대상으로 PyTorch 기반 양자화 실험을 수행하며, 구성 요소별로 정확도 손실의 원인을 분해해 분석하고 있습니다.
+- KV cache 양자화는 KIVI · KVQuant · RotateKV · NestQuant · NSNQuant · AnTKV 선행연구를 전수조사해 연구실 세미나에서 발표했습니다.
+- **Period**: `2026.09 ~ ` · **Tech**: `PyTorch` `Post-Training Quantization` `NVFP4` `LLaMA-2 / LLaMA-3`
 
 <br>
 
-**DMLab팀 대표학생 (4인 총괄)** · 6주
+### ▸ Graph Algorithms on Tenstorrent Blackhole p150a
 
-- EPTQ 알고리즘을 전처리 → 코드북 탐색 → 양자화 → 복원 단계로 분해하고, Factored-E8 코드북 · Weight Scale Normalization · Adaptive Critical Weight Preservation 세 구성 요소의 역할과 상호관계를 도식화했습니다.
-- GPTQ · AWQ · VPTQ · QTIP 대비 비교표를 만들어, scalar 계열이 2-bit에서 무너지는 원인과 lattice 기반 vector quantization이 이를 완화하는 방식을 정리했습니다.
-- search ratio ρ와 codebook radius r을 변화시키며 perplexity · 양자화 시간을 직접 측정했고, **실측치와 인용치를 구분해 표기**했습니다.
-
-| 분석 축 | 결과 |
-|:---|:---|
-| Weight Scale Normalization | 전 모델에서 성능 개선. LLaMA-3 8B에서 C4 PPL `18.34 → 14.90` (−3.44), zero-shot 5종(PIQA·HellaSwag·ARC-E·ARC-C·WinoGrande) 평균 `51.50 → 58.82` (+7.32%p) |
-| codebook radius r | r ∈ [1.70, 1.80] 전 구간 성능 안정 → 기본값 1.75의 타당성 확인 |
-| 모델 규모 × 계열 | 규모가 클수록 손실이 작았으나 계열별 가중치 분포가 더 지배적인 변수 |
-| 도출한 한계 | weight-only에 한정 → activation 양자화와의 결합은 미검증, 후속 과제로 정리 |
-
-산출물(선행연구 정리표 · 알고리즘 분석 자료 · 하이퍼파라미터별 성능 비교표)은 연구실 공용 자료로 등록됐습니다.
-*연구실 논문의 기법을 확장 분석한 것으로, 논문 저자는 아닙니다.*
-
-</details>
-
-<details>
-<summary><b>▸ Current — Activation Quantization (NVFP4 W4A4)</b></summary>
-
-<br>
-
-- UROP에서 남긴 한계(weight-only)를 그대로 다음 주제로 삼아, **가중치와 activation을 모두 NVFP4 4-bit로 양자화해 Blackwell NVFP4 텐서코어에서 W4A4로 실행하는 구조**를 연구하고 있습니다.
-- KV cache 양자화는 선행연구를 전수조사해 연구실 세미나에서 발표했습니다.
-- **Tech**: `PyTorch` `Post-Training Quantization` `NVFP4` `LLaMA-2 / LLaMA-3`
-
-</details>
-
-<details>
-<summary><b>▸ Current — Graph Algorithms on Tenstorrent Blackhole p150a</b></summary>
-
-<br>
-
-- Tenstorrent Blackhole p150a 가속기 위에서 동작하는 그래프 알고리즘(Connected Components) 설계 연구를 24주 계획으로 진행 중입니다. (`2026.09 ~`)
-
-</details>
+- Tenstorrent Blackhole p150a 가속기 위에서 동작하는 그래프 알고리즘(Connected Components) 설계 연구를 24주 계획으로 진행 중입니다.
+- **Period**: `2026.09 ~ Present`
 
 <br>
 
@@ -312,13 +276,6 @@
 <td>
 <b>WINK</b> — Web Academic Club · <code>2025.03 ~ </code><br>
 <sub>React · Spring Boot · 알고리즘 스터디에 참여하고, GitHub 과제와 기술 블로그 기록으로 학습 내용을 정리했습니다. EBTI 해커톤(Weave) 등 동아리 연계 활동에 참여했습니다.</sub>
-</td>
-</tr>
-<tr>
-<td width="70" align="center">🧑‍🏫</td>
-<td>
-<b>Course Helper (TA)</b> — 수치해석 · AI 프로그래밍<br>
-<sub>수업 운영을 보조하고 수강생 질의를 직접 받아 대응했습니다. 막힌 지점이 개념 이해 부족인지 구현 단계의 오류인지 구분해 설명 방식을 달리했습니다.</sub>
 </td>
 </tr>
 <tr>
